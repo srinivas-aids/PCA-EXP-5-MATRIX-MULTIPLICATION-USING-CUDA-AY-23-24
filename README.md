@@ -3,8 +3,7 @@ AIM:
 To perform Matrix Multiplication using Transposition using shared memory.
 ENTER YOUR NAME: u srinivas
 ENTER YOUR REGISTER NO : 212221230108
-EX. NO
-05
+EX. NO 05
 DATE
 07/05/2024
 MATRIX MULTIPLICATION USING CUDA
